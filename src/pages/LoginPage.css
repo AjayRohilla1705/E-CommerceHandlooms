@@ -1,0 +1,129 @@
+.rajas-chanab {
+  margin: 0;
+  position: relative;
+  font-size: 2.25em;
+  font-weight: 400;
+  font-family: inherit;
+}
+.frame-child {
+  height: 2.688em;
+  width: 10.438em;
+  position: relative;
+  border-radius: 5px;
+  background-color: #ffa3be;
+  display: none;
+}
+.sign-up {
+  text-decoration: none;
+  position: relative;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-family: Inter;
+  color: #f5f5f5;
+  text-align: left;
+  display: inline-block;
+  min-width: 3.8em;
+  z-index: 1;
+}
+.rajas-chanab-parent,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0.563em 2.813em 0.625em 2.875em;
+  background-color: #ffa3be;
+  border-radius: 5px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.rectangle-parent:hover {
+  background-color: #cc708a;
+}
+.rajas-chanab-parent {
+  width: 58.875em;
+  justify-content: space-between;
+  gap: 1.25em;
+  max-width: 100%;
+}
+.login-now {
+  margin: 0;
+  position: relative;
+  font-size: 3em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.login-now-parent,
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: #000;
+}
+.login-now-parent {
+  align-self: stretch;
+  gap: 0.75em;
+  max-width: 100%;
+  font-family: Inter;
+}
+.login-page {
+  width: 100%;
+  position: sticky;
+  background-color: #f9e6e6;
+  overflow: hidden;
+  padding: 3.688em 2.813em 1.875em 8em;
+  box-sizing: border-box;
+  gap: 2.438em;
+  line-height: normal;
+  letter-spacing: normal;
+  font-family: Itim;
+}
+@media screen and (max-width: 975px) {
+  .rajas-chanab {
+    font-size: 1.813em;
+  }
+  .login-now {
+    font-size: 2.375em;
+  }
+}
+@media screen and (max-width: 700px) {
+  .rajas-chanab-parent {
+    flex-wrap: wrap;
+  }
+  .login-page {
+    gap: 1.188em;
+    padding-left: 4em;
+    padding-right: 1.375em;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .rajas-chanab {
+    font-size: 1.375em;
+  }
+  .login-now {
+    font-size: 1.813em;
+  }
+  .login-page {
+    padding-left: 1.25em;
+    box-sizing: border-box;
+  }
+}
+.login {
+  position: sticky;
+  top: 0.5em;
+  left: 10.1em;
+  font-size: 1.25em;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 2.65em;
+  z-index: 1;
+}

@@ -1,0 +1,68 @@
+.span13 {
+  white-space: pre-wrap;
+}
+.rs8 {
+  font-weight: 500;
+}
+.rs-4799-1139900-container8 {
+  flex: 1;
+  position: relative;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.rs-4799-1139900-rs-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.125em;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button23 {
+  position: relative;
+  font-size: 1em;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Roboto;
+  color: snow;
+  text-align: left;
+  display: inline-block;
+  min-width: 5.25em;
+}
+.button22,
+.price-list {
+  display: flex;
+  align-items: flex-start;
+}
+.button22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0.5em 1.25em;
+  background-color: #bd9f8f;
+  width: 16.813em;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.button22:hover {
+  background-color: #8a6b5c;
+}
+.price-list {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 0.375em;
+  min-width: 17em;
+  flex-shrink: 0;
+  max-width: 100%;
+  text-align: left;
+  color: #424242;
+  font-family: Poppins;
+}

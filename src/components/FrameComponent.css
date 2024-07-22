@@ -1,0 +1,154 @@
+.top-offers {
+  margin: 0;
+  height: 1.042em;
+  width: 11.144em;
+  position: relative;
+  font-size: 3em;
+  line-height: 0.719em;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.offer-title {
+  width: 69.213em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25em;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.offers-child {
+  width: 74.1em;
+  height: 44em;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.pngtree-pink-arrow-c4d-stereo-icon {
+  width: 4.113em;
+  height: 4.238em;
+  position: relative;
+  object-fit: contain;
+  z-index: 3;
+}
+.offer-one {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.513em 0 0;
+}
+.pngtree-pink-arrow-c4d-stereo-icon1 {
+  height: 4.238em;
+  width: 4.113em;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.screenshot-2024-06-27-164054-2 {
+  height: 32.75em;
+  width: 63.875em;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -15.137em;
+  left: -63.619em;
+  border-radius: 13px;
+  object-fit: cover;
+  z-index: 2;
+}
+.offer-details,
+.offer-two {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.offer-two {
+  justify-content: flex-start;
+  position: relative;
+}
+.offer-details {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 0 0 0.063em;
+  gap: 1.25em;
+}
+.dot,
+.dot1,
+.dot2 {
+  height: 0.75em;
+  width: 0.75em;
+  position: relative;
+  border-radius: 50%;
+  background-color: #000;
+}
+.dot1,
+.dot2 {
+  background-color: #ccc;
+}
+.slider-dots,
+.slider-navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.slider-dots {
+  width: 17.575em;
+  justify-content: flex-start;
+  padding: 0 0 1.625em;
+  gap: 0.5em;
+  z-index: 1;
+}
+.slider-navigation {
+  width: 57em;
+  justify-content: center;
+  padding: 0 1.25em;
+  max-width: 100%;
+}
+.offer-title-parent,
+.offers {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.offers {
+  align-self: stretch;
+  background-color: #fffbfb;
+  align-items: flex-end;
+  padding: 17.25em 1.25em 2.125em 1em;
+  box-sizing: border-box;
+  gap: 16.5em;
+}
+.offer-title-parent {
+  position: absolute;
+  top: 151.25em;
+  left: 7.638em;
+  width: 74.1em;
+  align-items: flex-start;
+  gap: 5.25em;
+  text-align: left;
+  color: #424242;
+  font-family: "Dancing Script";
+}
+@media screen and (max-width: 800px) {
+  .top-offers {
+    font-size: 2.375em;
+    line-height: 0.737em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-offers {
+    font-size: 1.813em;
+    line-height: 0.724em;
+  }
+  .offer-details {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

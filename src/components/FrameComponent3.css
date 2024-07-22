@@ -1,0 +1,222 @@
+.image-5-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 100px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.blank-line10,
+.blank-line11,
+.blank-line12,
+.blankets3,
+.comfortable1 {
+  margin: 0;
+}
+.comfortable-blankets1 {
+  margin: 0;
+  width: 4.938em;
+  position: relative;
+  font-size: 2em;
+  line-height: 0.375em;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.product-name-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1em;
+}
+.cushion-image,
+.product-card1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-card1 {
+  align-self: stretch;
+  flex: 1;
+  gap: 2.25em;
+}
+.cushion-image {
+  height: 20.25em;
+  width: 13.625em;
+  padding: 0.25em 0 0;
+  box-sizing: border-box;
+}
+.image-9-icon1 {
+  width: 13.688em;
+  height: 14em;
+  position: relative;
+  border-radius: 100px;
+  object-fit: cover;
+}
+.blank-line13,
+.blank-line14,
+.blank-line15,
+.curtains4,
+.royal1 {
+  margin: 0;
+}
+.royal-curtains1 {
+  margin: 0;
+  height: 2.688em;
+  width: 3.531em;
+  position: relative;
+  font-size: 2em;
+  line-height: 0.375em;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.towel-photo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 2.625em;
+}
+.towel-image,
+.towel-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.towel-image {
+  align-self: stretch;
+  gap: 2.5em;
+}
+.towel-title {
+  flex: 0.905;
+  padding: 0.25em 1.438em 0 0;
+  box-sizing: border-box;
+  min-width: 9.813em;
+}
+.image-5-icon2 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0.625em;
+  transform: scale(1.183);
+}
+.wrapper-image-5 {
+  width: 13.688em;
+  height: 14em;
+  position: relative;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.covers1,
+.cushion1 {
+  margin: 0;
+}
+.cushion-covers3 {
+  margin: 0;
+  width: 4.5em;
+  position: relative;
+  font-size: 2em;
+  line-height: 0.531em;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.filter-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.375em;
+}
+.wrapper-image-5-parent {
+  flex: 0.9087;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.375em 0 0;
+  box-sizing: border-box;
+  gap: 2.563em;
+  min-width: 9.813em;
+}
+.product-row-wrapper,
+.product-row1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product-row1 {
+  width: 74.063em;
+  justify-content: flex-start;
+  gap: 5em;
+}
+.product-row-wrapper {
+  width: 86.438em;
+  justify-content: center;
+  padding: 0 1.25em;
+  box-sizing: border-box;
+  text-align: left;
+  color: #866969;
+  font-family: "Dancing Script";
+}
+@media screen and (max-width: 1200px) {
+  .product-row1 {
+    gap: 2.5em;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .comfortable-blankets1,
+  .cushion-covers3,
+  .royal-curtains1 {
+    font-size: 1.625em;
+    line-height: 0.385em;
+  }
+  .cushion-covers3 {
+    line-height: 0.538em;
+  }
+  .product-row1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .product-row1 {
+    gap: 1.25em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .comfortable-blankets1,
+  .royal-curtains1 {
+    font-size: 1.188em;
+    line-height: 0.368em;
+  }
+  .towel-title {
+    flex: 1;
+  }
+  .cushion-covers3 {
+    font-size: 1.188em;
+    line-height: 0.526em;
+  }
+  .wrapper-image-5-parent {
+    flex: 1;
+  }
+}

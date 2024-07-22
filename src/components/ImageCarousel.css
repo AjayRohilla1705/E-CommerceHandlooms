@@ -1,0 +1,222 @@
+.summer-start-sale2 {
+  margin: 0;
+  height: 1.522em;
+  width: 36em;
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.5em;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.dhurrie-offer {
+  /* position: absolute; */
+  top: -0.85em;
+  left: -0.3em;
+  background-color: #e7b3cc;
+  width: 88.05em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.875em 4.75em;
+  box-sizing: border-box;
+  min-height: 4.938em;
+  /* max-width: 100.4%; */
+  z-index: 11;
+  color: #fff;
+  font-family: Sanchez;
+  position: fixed;
+}
+.lore-child {
+  position: absolute;
+  top: 7.25em;
+  left: 68.313em;
+  width: 1.5em;
+  height: 1.5em;
+  display: none;
+}
+.image-15-icon1,
+.image-16-icon1 {
+  position: absolute;
+  top: 9.125em;
+  height: 2.5em;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-15-icon1 {
+  left: 83.063em;
+  width: 4.269em;
+  cursor: pointer;
+}
+.image-16-icon1 {
+  left: 79.5em;
+  width: 2.5em;
+  mix-blend-mode: darken;
+}
+.cushion-covers2,
+.details-icon {
+  position: absolute;
+  top: 11.081em;
+  left: 30.738em;
+  width: 0.519em;
+  height: 0.263em;
+  z-index: 1;
+}
+.cushion-covers2 {
+  top: 9.882em;
+  left: 21.118em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 7.471em;
+  height: 1.294em;
+  min-width: 7.471em;
+  white-space: nowrap;
+}
+.about-us2,
+.curtains3,
+.details-icon1 {
+  position: absolute;
+  top: 11.081em;
+  left: 37.675em;
+  width: 0.519em;
+  height: 0.263em;
+  z-index: 1;
+}
+.about-us2,
+.curtains3 {
+  top: 9.882em;
+  left: 31.118em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 4em;
+  height: 1.294em;
+  min-width: 4em;
+}
+.about-us2 {
+  left: 56.353em;
+  width: 4.412em;
+  min-width: 4.412em;
+  white-space: nowrap;
+}
+.blankets2,
+.details-icon2 {
+  position: absolute;
+  top: 11.081em;
+  left: 57.113em;
+  width: 0.519em;
+  height: 0.263em;
+  z-index: 1;
+}
+.blankets2 {
+  top: 9.882em;
+  left: 49.412em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 4.059em;
+  height: 1.294em;
+  min-width: 4.059em;
+}
+.details-icon3,
+.quilts2 {
+  position: absolute;
+  top: 11.081em;
+  left: 50.05em;
+  width: 0.519em;
+  height: 0.263em;
+  z-index: 1;
+}
+.quilts2 {
+  top: 9.882em;
+  left: 44.176em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 2.706em;
+  height: 1.294em;
+  min-width: 2.706em;
+}
+.details-icon4 {
+  top: 11.081em;
+  left: 44.175em;
+  width: 0.519em;
+  height: 0.263em;
+}
+.bathing1,
+.details-icon4,
+.details-icon5 {
+  position: absolute;
+  z-index: 1;
+}
+.bathing1 {
+  top: 9.882em;
+  left: 37.647em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 3.647em;
+  height: 1.294em;
+  min-width: 3.647em;
+}
+.details-icon5 {
+  top: 11.081em;
+  left: 20.425em;
+  width: 0.519em;
+  height: 0.263em;
+  cursor: pointer;
+}
+.bedsheets2 {
+  position: absolute;
+  top: 9.882em;
+  left: 13.824em;
+  font-size: 1.063em;
+  display: inline-block;
+  width: 5.059em;
+  height: 1.294em;
+  min-width: 5.059em;
+  z-index: 1;
+}
+.lore-item,
+.search-icon {
+  position: absolute;
+  top: 9.75em;
+  left: 76.063em;
+  width: 1.563em;
+  height: 1.563em;
+  z-index: 1;
+}
+.lore-item {
+  top: 11.625em;
+  left: 66em;
+  width: 10.063em;
+  height: 0.063em;
+  object-fit: contain;
+}
+.lore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  text-align: left;
+  color: #000;
+  font-family: Inter;
+}
+.raja-s-chanab-16x20-removebg-p-icon2 {
+  position: absolute;
+  top: 6.063em;
+  left: 0.813em;
+  width: 11.25em;
+  height: 11.938em;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-carousel {
+  align-self: stretch;
+  height: 18em;
+  position: relative;
+  max-width: 100%;
+}

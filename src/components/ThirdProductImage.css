@@ -1,0 +1,95 @@
+.image-6-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.fifth-star-icon,
+.first-star-icon,
+.fourth-star-icon,
+.second-star-icon,
+.third-star-icon {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.fifth-star-icon {
+  width: 1.25em;
+}
+.stars9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 1;
+}
+.rating-number {
+  position: relative;
+  font-size: 0.875em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 4.571em;
+  z-index: 2;
+}
+.product-rating,
+.rating-number-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rating-number-wrapper {
+  flex-direction: column;
+  padding: 0.563em 0 0;
+  margin-left: -0.312em;
+}
+.product-rating {
+  flex-direction: row;
+}
+.floral-print-cotton8 {
+  flex: 1;
+  position: relative;
+  font-size: 1em;
+  line-height: 1em;
+}
+.rating-display {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.063em;
+  text-align: left;
+  font-family: Poppins;
+}
+.product-information {
+  flex: 1;
+  flex-direction: column;
+}
+.product-information,
+.second-rating-value,
+.third-product-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.second-rating-value {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0.625em 0 0.25em;
+}
+.third-product-image {
+  height: 27.938em;
+  flex-direction: column;
+  gap: 1.563em;
+  text-align: center;
+  color: #424242;
+  font-family: Roboto;
+}

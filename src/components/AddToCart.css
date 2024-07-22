@@ -1,0 +1,755 @@
+.floral-print-cotton4 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: 3em;
+  line-height: 1.25em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 10.542em;
+  max-width: 100%;
+  z-index: 1;
+}
+.react-iconsfafaminus {
+  width: 1.5em;
+  height: 1.5em;
+  position: relative;
+}
+.counter-sub-buttons {
+  width: 1.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.344em 0 0;
+  box-sizing: border-box;
+}
+.quantity {
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.522em;
+  display: inline-block;
+  min-width: 0.522em;
+}
+.react-iconsfafaplus {
+  width: 1.5em;
+  height: 1.5em;
+  position: relative;
+}
+.counter-sub-buttons1 {
+  width: 1.5em;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0.344em 0 0;
+  box-sizing: border-box;
+}
+.counter,
+.counter-buttons,
+.counter-sub-buttons1 {
+  display: flex;
+  align-items: flex-start;
+}
+.counter-buttons {
+  align-self: stretch;
+  border: 1px solid #fa8bab;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.25em 4.813em 1.25em 4.688em;
+  gap: 1.25em;
+  z-index: 1;
+}
+.counter {
+  width: 33.438em;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0.188em 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: Sanchez;
+}
+.add-to-cart-button,
+.add-to-cart-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.add-to-cart-button {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 1.25em;
+}
+.add-to-cart-button-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 0.375em 0 0;
+  box-sizing: border-box;
+}
+.shipping-child {
+  align-self: stretch;
+  height: 0.131em;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.shipping {
+  width: 16.563em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1.369em;
+  box-sizing: border-box;
+}
+.add-to-cart1 {
+  margin: 0;
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.522em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 5.478em;
+}
+.frame1 {
+  width: 33.438em;
+  border: 1px solid #fa8bab;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1.25em;
+  z-index: 1;
+}
+.buy-now-button,
+.buy-now-button-wrapper,
+.frame1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.buy-now-button {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.25em;
+}
+.buy-now-button-wrapper {
+  width: 76.875em;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.375em;
+  box-sizing: border-box;
+}
+.span7 {
+  white-space: pre-wrap;
+}
+.rs4 {
+  font-weight: 500;
+}
+.rs-4799-1139900-container4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 2em;
+  line-height: 1.078em;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.frame-item {
+  position: absolute;
+  top: 1.125em;
+  left: 10em;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 11.938em;
+  height: 0.063em;
+  z-index: 2;
+}
+.rs-4799-1139900-rs-parent {
+  height: 2.938em;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.product-details-content {
+  width: 23.563em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.5em;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.products-details {
+  font-size: 2em;
+  color: #d46182;
+}
+.print-type-ikat {
+  font-size: 1.5em;
+}
+.products-details-print-typ {
+  margin: 0;
+}
+.blank-line,
+.blank-line1,
+.filling-100,
+.material-100,
+.size-60x90-inches,
+.size-single-60x,
+.suitable-for-mild,
+.wash-care-dry {
+  margin: 0;
+  font-size: 1.5em;
+}
+.products-details-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 2.156em;
+  z-index: 1;
+  color: #000;
+}
+.user-settings,
+.user-settings-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.user-settings {
+  align-self: stretch;
+  gap: 1.563em;
+}
+.user-settings-wrapper {
+  flex: 1;
+  padding: 2.438em 0 0;
+  box-sizing: border-box;
+  min-width: 25.313em;
+}
+.buy-now1 {
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.522em;
+  display: inline-block;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+  min-width: 4.435em;
+}
+.shipping-button {
+  cursor: pointer;
+  border: 0;
+  padding: 1.375em 1.25em;
+  background-color: rgba(233, 135, 182, 0.73);
+  align-self: stretch;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.pincode-sub-input1:hover,
+.shipping-button:hover {
+  background-color: rgba(181, 84, 130, 0.73);
+}
+.shipping-availability {
+  flex: 1;
+  position: relative;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.shipping-availability-wrapper {
+  width: 23.063em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.25em;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.enter-pincode {
+  width: 6.609em;
+  border: 0;
+  outline: 0;
+  font-family: Sanchez;
+  font-size: 1.438em;
+  background-color: transparent;
+  height: 1.522em;
+  position: relative;
+  line-height: 1.5em;
+  color: #828282;
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.pincode-sub-input {
+  align-self: stretch;
+  border: 1px solid #fa8bab;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.25em 3em;
+  z-index: 1;
+}
+.check-now {
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.522em;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.pincode,
+.pincode-input,
+.pincode-sub-input1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pincode-sub-input1 {
+  cursor: pointer;
+  border: 0;
+  padding: 1.375em 2.625em;
+  background-color: rgba(233, 135, 182, 0.73);
+  border-radius: 4px;
+  overflow: hidden;
+  flex-direction: row;
+  white-space: nowrap;
+  z-index: 1;
+}
+.pincode,
+.pincode-input {
+  flex-direction: column;
+}
+.pincode-input {
+  align-self: stretch;
+  gap: 1.313em;
+}
+.pincode {
+  flex: 1;
+  gap: 0.313em;
+  max-width: 100%;
+}
+.pincode-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 0.375em;
+  box-sizing: border-box;
+}
+.pincode-wrapper,
+.product-details1,
+.shipping-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.shipping-details {
+  width: 33.813em;
+  flex-direction: column;
+  gap: 3.125em;
+  min-width: 33.813em;
+  color: #d46182;
+}
+.product-details1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 5.75em;
+}
+.frame-inner {
+  width: 30.5em;
+  height: 25.25em;
+  position: relative;
+  border-radius: 20px;
+  border: 1px solid #d46182;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.ciombo-offer-icon {
+  align-self: stretch;
+  height: 11.25em;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.hours-label,
+.hours-top-label {
+  position: relative;
+  font-size: 1.5em;
+  display: inline-block;
+  min-width: 1.25em;
+  z-index: 1;
+}
+.hours-top-label {
+  font-size: 1.25em;
+  font-weight: 900;
+  min-width: 0.35em;
+}
+.hours-bottom-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.063em 0 0;
+}
+.hours-number,
+.hours-value {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.hours-number {
+  flex: 1;
+  justify-content: space-between;
+  gap: 1.25em;
+}
+.hours-value {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 0.438em;
+}
+.hours {
+  position: relative;
+  font-size: 0.75em;
+  display: inline-block;
+  min-width: 3.583em;
+  z-index: 1;
+}
+.hours-value-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.313em;
+}
+.minutes-bottom-label,
+.minutes-label {
+  position: relative;
+  font-size: 1.5em;
+  display: inline-block;
+  min-width: 1.25em;
+  z-index: 1;
+}
+.minutes-bottom-label {
+  font-size: 1.25em;
+  font-weight: 900;
+  min-width: 0.35em;
+}
+.minutes-number,
+.minutes-value {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.minutes-number {
+  flex: 1;
+  justify-content: space-between;
+  gap: 1.25em;
+}
+.minutes-value {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 0.75em;
+}
+.minutes {
+  position: relative;
+  font-size: 0.75em;
+  display: inline-block;
+  min-width: 4.583em;
+  z-index: 1;
+}
+.minutes-value-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.313em;
+  min-width: 2.938em;
+}
+.seconds-label {
+  position: relative;
+  font-size: 1.5em;
+  display: inline-block;
+  min-width: 1.083em;
+  z-index: 1;
+}
+.seconds-value {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.063em 0 1em;
+}
+.seconds {
+  position: relative;
+  font-size: 0.75em;
+  display: inline-block;
+  min-width: 4.917em;
+  z-index: 1;
+}
+.seconds-value-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.313em;
+}
+.offer-timer,
+.timer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.timer {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 0.75em;
+}
+.offer-timer {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 1.125em 0 1.688em;
+}
+.offer-type {
+  width: 16.625em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.544em;
+}
+.get-now-button-child {
+  height: 2.75em;
+  width: 14.375em;
+  position: relative;
+  border-radius: 20px;
+  background-color: #ff725e;
+  display: none;
+}
+.get-it-now {
+  position: relative;
+  font-size: 1em;
+  display: inline-block;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  min-width: 6em;
+  z-index: 2;
+}
+.get-now-button,
+.offer-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.get-now-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0.75em 4.125em 0.813em 4.25em;
+  background-color: #ff725e;
+  border-radius: 20px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.get-now-button:hover {
+  background-color: #cc402b;
+}
+.offer-button {
+  padding: 0 1.125em;
+}
+.frame-wrapper,
+.rectangle-group {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-group {
+  flex: 1;
+  border-radius: 20px;
+  border: 1px solid #d46182;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 1.5em 6.563em 3.688em;
+  gap: 2.25em;
+  z-index: 1;
+}
+.frame-wrapper {
+  width: 34em;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 1.75em;
+  color: #000;
+  font-family: Inter;
+}
+.buy-now,
+.product-details-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.product-details-parent {
+  gap: 1.688em;
+  font-family: Poppins;
+}
+.buy-now {
+  gap: 2.125em;
+}
+.you-may-also {
+  margin: 0;
+  height: 1.042em;
+  width: 8.538em;
+  position: relative;
+  font-size: 3em;
+  line-height: 0.719em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.you-may-also-like-wrapper {
+  width: 75.269em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25em;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: "Dancing Script";
+}
+.add-to-cart,
+.buy-now-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.buy-now-parent {
+  width: 79.75em;
+  align-items: flex-start;
+  padding: 0 0 0 1.25em;
+  box-sizing: border-box;
+  gap: 7.313em;
+  margin-top: -0.375em;
+  font-family: Sanchez;
+}
+.add-to-cart {
+  flex: 1;
+  align-items: flex-end;
+  text-align: left;
+  color: #424242;
+  font-family: "Dancing Script";
+}
+@media screen and (max-width: 1050px) {
+  .buy-now-button {
+    flex-wrap: wrap;
+  }
+  .shipping-details {
+    flex: 1;
+  }
+  .product-details1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .floral-print-cotton4 {
+    font-size: 2.375em;
+    line-height: 1.263em;
+    min-width: 100%;
+  }
+  .rs-4799-1139900-container4 {
+    font-size: 1.625em;
+    line-height: 1.077em;
+  }
+  .shipping-details,
+  .user-settings-wrapper {
+    min-width: 100%;
+  }
+  .you-may-also {
+    font-size: 2.375em;
+    line-height: 0.737em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .floral-print-cotton4 {
+    font-size: 1.813em;
+    line-height: 1.241em;
+  }
+  .quantity {
+    font-size: 1.125em;
+    line-height: 1.556em;
+    width: 100%;
+    height: 0.667em;
+  }
+  .counter-buttons {
+    flex-wrap: wrap;
+  }
+  .add-to-cart1 {
+    font-size: 1.125em;
+    line-height: 1.556em;
+  }
+  .rs-4799-1139900-container4 {
+    font-size: 1.188em;
+    line-height: 1.105em;
+  }
+  .products-details-container {
+    font-size: 1.188em;
+    line-height: 1.474em;
+  }
+  .buy-now1,
+  .enter-pincode {
+    font-size: 1.125em;
+    line-height: 1.556em;
+  }
+  .hours-label {
+    font-size: 1.188em;
+  }
+  .hours-top-label {
+    font-size: 1em;
+  }
+  .minutes-label {
+    font-size: 1.188em;
+  }
+  .minutes-bottom-label {
+    font-size: 1em;
+  }
+  .seconds-label {
+    font-size: 1.188em;
+  }
+  .you-may-also {
+    font-size: 1.813em;
+    line-height: 0.724em;
+  }
+}

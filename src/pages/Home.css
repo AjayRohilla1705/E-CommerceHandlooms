@@ -1,0 +1,831 @@
+.span {
+  white-space: pre-wrap;
+}
+.rs {
+  font-weight: 500;
+}
+.floral-print-cotton,
+.rs-4799-1139900-container {
+  position: absolute;
+  right: 0.563em;
+  bottom: -22.875em;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  width: 22.563em;
+  height: 2.188em;
+  z-index: 1;
+}
+.floral-print-cotton {
+  right: 7.063em;
+  bottom: -15.437em;
+  line-height: 2.156em;
+  width: 16.188em;
+  height: 1em;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon4 {
+  width: 1.25em;
+}
+.stars {
+  position: absolute;
+  right: 15.063em;
+  bottom: -14.437em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 1;
+}
+.product-description {
+  position: absolute;
+  right: 13em;
+  bottom: -16.214em;
+  font-size: 0.875em;
+  line-height: 150%;
+  font-family: Roboto;
+  text-align: center;
+  display: inline-block;
+  min-width: 4.571em;
+  z-index: 2;
+}
+.home-child {
+  position: absolute;
+  right: 5.125em;
+  bottom: -32.687em;
+  border-top: 5px solid #000;
+  box-sizing: border-box;
+  width: 79.125em;
+  height: 0.313em;
+  z-index: 1;
+}
+.home-item {
+  position: absolute;
+  top: 177.5em;
+  left: 3.625em;
+  width: 80.688em;
+  height: 49.375em;
+}
+.customer-reviews {
+  margin: 0;
+  position: absolute;
+  bottom: -13.875em;
+  left: 1.833em;
+  font-size: 3em;
+  line-height: 0.729em;
+  font-weight: 400;
+  font-family: "Dancing Script";
+  color: #000;
+  display: inline-block;
+  width: 8.938em;
+  height: 0.729em;
+  z-index: 2;
+}
+.home-inner,
+.rectangle-div {
+  position: absolute;
+  bottom: -43.25em;
+  left: 5.688em;
+  width: 25.688em;
+  height: 0.063em;
+  z-index: 2;
+}
+.rectangle-div {
+  bottom: -50.312em;
+  left: 3.625em;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: #fcf5f5;
+  width: 30.563em;
+  height: 5.938em;
+  visibility: hidden
+}
+.the-quality-of {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.beautiful {
+  margin: 0;
+}
+.the-quality-of-container {
+  margin: 0;
+  position: absolute;
+  bottom: -25.5em;
+  left: 5.833em;
+  font-size: 2.25em;
+  line-height: 0.958em;
+  font-weight: 400;
+  font-family: "Dancing Script";
+  color: #000;
+  display: inline-block;
+  width: 20.611em;
+  height: 2.333em;
+  z-index: 2;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon9 {
+  width: 1.25em;
+}
+.stars1 {
+  position: absolute;
+  bottom: -47.812em;
+  left: 24.063em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 3;
+}
+.preeti-chachi-ji {
+  margin: 0;
+  position: absolute;
+  bottom: -24.25em;
+  left: 5.656em;
+  font-size: 2em;
+  line-height: 1.078em;
+  font-weight: 400;
+  font-family: "Dancing Script";
+  color: #000;
+  display: inline-block;
+  width: 10.5em;
+  height: 1.5em;
+  z-index: 4;
+}
+.image-31-icon {
+  position: absolute;
+  bottom: -48.5em;
+  left: 5.5em;
+  border-radius: 24px;
+  width: 4.063em;
+  height: 3em;
+  object-fit: contain;
+  z-index: 3;
+}
+.home-child1 {
+  position: absolute;
+  top: 211.438em;
+  left: 11.313em;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: #fcf5f5;
+  width: 49.813em;
+  height: 12em;
+}
+.image-32-icon,
+.simrat {
+  position: absolute;
+  z-index: 2;
+}
+.image-32-icon {
+  bottom: -68.625em;
+  left: 5.5em;
+  border-radius: 74px;
+  width: 4.063em;
+  height: 2.875em;
+  object-fit: contain;
+}
+.simrat {
+  margin: 0;
+  bottom: -30.5em;
+  left: 5.028em;
+  font-size: 2.25em;
+  line-height: 0.958em;
+  font-weight: 400;
+  font-family: "Dancing Script";
+  color: #000;
+  display: inline-block;
+  width: 11.639em;
+  height: 1.111em;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon13,
+.vector-icon14 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon14 {
+  width: 1.25em;
+}
+.stars2 {
+  position: absolute;
+  bottom: -68.625em;
+  left: 18.938em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 3;
+}
+.i-really-loved {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.i-really-loved-container {
+  margin: 0;
+  position: absolute;
+  bottom: -33.917em;
+  left: 5.389em;
+  font-size: 2.25em;
+  line-height: 0.958em;
+  font-weight: 400;
+  font-family: "Dancing Script";
+  color: #000;
+  display: inline-block;
+  width: 21.056em;
+  height: 1.389em;
+  z-index: 3;
+}
+.summer-start-sale {
+  margin: 0;
+  height: 1.522em;
+  width: 36em;
+  position: relative;
+  font-size: 1.438em;
+  line-height: 1.5em;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.summer-sale,
+.summer-sale-banner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.summer-sale-banner {
+  flex: 1;
+  background-color: #e7b3cc;
+  overflow: hidden;
+  justify-content: center;
+  padding: 1.375em 1.25em;
+  z-index: 1;
+  text-align: left;
+  color: #fff;
+  font-family: Sanchez;
+}
+.summer-sale {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 89.75em;
+  justify-content: flex-start;
+  padding: 0 0 0.438em;
+  z-index: 99;
+}
+.span1 {
+  white-space: pre-wrap;
+}
+.rs1 {
+  font-weight: 500;
+}
+.floral-print-cotton1,
+.rs-4799-1139900-container1 {
+  position: absolute;
+  bottom: -22.687em;
+  left: 25.563em;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  width: 22.563em;
+  height: 2.188em;
+  z-index: 1;
+}
+.floral-print-cotton1 {
+  bottom: -15.25em;
+  left: 25.438em;
+  line-height: 2.156em;
+  width: 16.188em;
+  height: 1em;
+}
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18,
+.vector-icon19 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon19 {
+  width: 1.25em;
+}
+.stars3 {
+  position: absolute;
+  bottom: -14.25em;
+  left: 25.375em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 2;
+}
+.product-description1 {
+  position: absolute;
+  bottom: -16em;
+  left: 38.071em;
+  font-size: 0.875em;
+  line-height: 150%;
+  font-family: Roboto;
+  text-align: center;
+  display: inline-block;
+  min-width: 4.571em;
+  z-index: 3;
+}
+.span2 {
+  white-space: pre-wrap;
+}
+.rs2 {
+  font-weight: 500;
+}
+.floral-print-cotton2,
+.rs-4799-1139900-container2 {
+  position: absolute;
+  right: 21.563em;
+  bottom: -22.687em;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  width: 22.563em;
+  height: 2.188em;
+  z-index: 2;
+}
+.floral-print-cotton2 {
+  right: 28.063em;
+  bottom: -15.25em;
+  line-height: 2.156em;
+  width: 16.188em;
+  height: 1em;
+  z-index: 1;
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon24 {
+  width: 1.25em;
+}
+.stars4 {
+  position: absolute;
+  right: 36.063em;
+  bottom: -14.25em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 2;
+}
+.product-description2 {
+  position: absolute;
+  right: 37em;
+  bottom: -16em;
+  font-size: 0.875em;
+  line-height: 150%;
+  font-family: Roboto;
+  text-align: center;
+  display: inline-block;
+  min-width: 4.571em;
+  z-index: 3;
+}
+.span3 {
+  white-space: pre-wrap;
+}
+.rs3 {
+  font-weight: 500;
+}
+.floral-print-cotton3,
+.rs-4799-1139900-container3 {
+  position: absolute;
+  bottom: -22.687em;
+  left: 5.438em;
+  font-size: 1em;
+  line-height: 2.188em;
+  display: inline-block;
+  width: 22.563em;
+  height: 2.188em;
+  z-index: 2;
+}
+.floral-print-cotton3 {
+  bottom: -15.25em;
+  left: 5.313em;
+  line-height: 2.156em;
+  width: 16.188em;
+  height: 1em;
+  z-index: 1;
+}
+.vector-icon25,
+.vector-icon26,
+.vector-icon27,
+.vector-icon28,
+.vector-icon29 {
+  height: 1.25em;
+  width: 1.325em;
+  position: relative;
+  min-height: 1.25em;
+}
+.vector-icon29 {
+  width: 1.25em;
+}
+.stars5 {
+  position: absolute;
+  bottom: -14.25em;
+  left: 5.25em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.438em 0.688em 0.438em 0;
+  gap: 0.25em;
+  z-index: 2;
+}
+.button1 {
+  position: relative;
+  font-size: 1em;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.25em;
+}
+.button {
+  width: 16.813em;
+  border-radius: 4px;
+  background-color: #bd9f8f;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.5em 1.25em;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button3 {
+  position: relative;
+  font-size: 1em;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.25em;
+}
+.button2 {
+  width: 16.813em;
+  border-radius: 4px;
+  background-color: #bd9f8f;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.5em 1.25em;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button5 {
+  position: relative;
+  font-size: 1em;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.25em;
+}
+.button-wrapper,
+.button4 {
+  display: flex;
+  align-items: flex-start;
+}
+.button4 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #bd9f8f;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.5em 1.25em;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button-wrapper {
+  width: 17.75em;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0.938em 0 0;
+  box-sizing: border-box;
+}
+.button7 {
+  position: relative;
+  font-size: 1em;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 5.25em;
+}
+.button-container,
+.button6 {
+  display: flex;
+  align-items: flex-start;
+}
+.button6 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #bd9f8f;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.5em 1.25em;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button-container {
+  width: 16.813em;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0.188em 0 0;
+  box-sizing: border-box;
+}
+.quantity-buttons,
+.quantity-buttons-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.quantity-buttons {
+  padding: 0 1.25em 0 0;
+  box-sizing: border-box;
+  gap: 3.25em;
+}
+.quantity-buttons-wrapper {
+  position: absolute;
+  top: 163.75em;
+  left: 5.313em;
+  width: 84.438em;
+  text-align: left;
+  color: snow;
+  font-family: Roboto;
+}
+.product-description3 {
+  position: absolute;
+  bottom: -16em;
+  left: 15.071em;
+  font-size: 0.875em;
+  line-height: 150%;
+  font-family: Roboto;
+  text-align: center;
+  display: inline-block;
+  min-width: 4.571em;
+  z-index: 3;
+}
+.add-to-cart-wrapper {
+  position: absolute;
+  top: 45.5em;
+  left: 4.375em;
+  width: 85.375em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1.688em 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.second-row-products-child {
+  width: 90em;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.image-27-icon,
+.image-27-icon1,
+.image-28-icon,
+.image-30-icon {
+  height: 22.5em;
+  width: 17.125em;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  z-index: 1;
+  float: left;
+  left: -96vw;
+  top: 294vh;
+  /* gap: 0vw; */
+  display: flex;
+  row-gap: 100px;
+}
+.image-27-icon1,
+.image-28-icon,
+.image-30-icon {
+  width: 16.188em;
+  left: -93vw;
+}
+.image-27-icon1,
+.image-30-icon {
+  width: 17.375em;
+  left: -90vw;
+}
+.image-27-icon1 {
+  width: 17.125em;
+}
+.image-27-icon{
+  gap: 100px;
+}
+.second-row-products {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90em;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-12-icon,
+.recommendation-products-child {
+  position: absolute;
+  top: 121.813em;
+  left: 2.313em;
+  width: 83.188em;
+  height: 0.65em;
+  z-index: 2;
+}
+.image-12-icon {
+  top: 9.5em;
+  left: 3.5em;
+  width: 50em;
+  height: 33.313em;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-10-icon,
+.image-11-icon,
+.image-7-icon,
+.image-9-icon {
+  position: absolute;
+  top: 9.5em;
+  left: 57.688em;
+  width: 13.188em;
+  height: 14.375em;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  top: 28.313em;
+  left: 58em;
+  width: 14.188em;
+  height: 14.5em;
+}
+.image-11-icon,
+.image-9-icon {
+  top: 9.5em;
+  left: 74.063em;
+  width: 13.813em;
+  height: 14.375em;
+}
+.image-9-icon {
+  top: 27.813em;
+  left: 75.188em;
+  width: 12.688em;
+  height: 15em;
+}
+.recommendation-products {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home {
+  width: 100%;
+  height: 140.688em;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #424242;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1200px) {
+  .quantity-buttons {
+    flex-wrap: wrap;
+  }
+  .home {
+    height: auto;
+    min-height: 2251;
+  }
+}
+@media screen and (max-width: 750px) {
+  .customer-reviews {
+    font-size: 2.375em;
+    line-height: 0.737em;
+  }
+  .the-quality-of-container {
+    font-size: 1.813em;
+    line-height: 0.966em;
+  }
+  .preeti-chachi-ji {
+    font-size: 1.625em;
+    line-height: 1.077em;
+  }
+  .i-really-loved-container,
+  .simrat {
+    font-size: 1.813em;
+    line-height: 0.966em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .customer-reviews {
+    font-size: 1.813em;
+    line-height: 0.724em;
+  }
+  .the-quality-of-container {
+    font-size: 1.375em;
+    line-height: 0.955em;
+  }
+  .preeti-chachi-ji {
+    font-size: 1.188em;
+    line-height: 1.105em;
+  }
+  .i-really-loved-container,
+  .simrat {
+    font-size: 1.375em;
+    line-height: 0.955em;
+  }
+}
+.login {
+  position: sticky;
+  top: 0.5em;
+  left: 10.1em;
+  font-size: 1.25em;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 2.65em;
+  z-index: 1;
+}
+.image-27-icon, .image-27-icon1, .image-28-icon, .image-30-icon {
+  height: 22.5em;
+  width: 17.125em;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  z-index: 1;
+  float: left;
+  left: -96vw;
+  top: 322vh;
+  /* gap: 0vw; */
+  display: flex;
+  row-gap: 100px;
+  
+}

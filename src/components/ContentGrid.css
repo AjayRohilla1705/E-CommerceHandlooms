@@ -1,0 +1,291 @@
+.raja-s-chanab-16x20-removebg-p-icon1 {
+  height: 11.938em;
+  width: 11.25em;
+  position: relative;
+  object-fit: cover;
+}
+.bedsheets1,
+.icon-image {
+  position: relative;
+  flex-shrink: 0;
+}
+.bedsheets1 {
+  text-decoration: none;
+  font-size: 1.063em;
+  color: inherit;
+  display: inline-block;
+  min-width: 5.059em;
+  cursor: pointer;
+}
+.icon-image {
+  width: 0.519em;
+  height: 0.263em;
+}
+.icon-image-wrapper {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.category,
+.category-wrapper,
+.icon-image-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.category {
+  flex-direction: row;
+  gap: 0.363em;
+}
+.category-wrapper {
+  flex-direction: column;
+  padding: 1.25em 0 0;
+}
+.cushion-covers1 {
+  position: relative;
+  font-size: 1.063em;
+  display: inline-block;
+  min-width: 7.471em;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.vector-cushion-icon {
+  width: 0.519em;
+  height: 0.263em;
+  position: relative;
+  flex-shrink: 0;
+}
+.curtains-container {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.curtains-container,
+.cushion-covers-parent,
+.frame-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cushion-covers-parent {
+  flex-direction: row;
+  gap: 0.363em;
+}
+.frame-wrapper1 {
+  flex-direction: column;
+  padding: 1.25em 0.313em 0 0;
+}
+.curtains2 {
+  position: relative;
+  font-size: 1.063em;
+  display: inline-block;
+  min-width: 4em;
+}
+.vector-curtain-icon {
+  width: 0.519em;
+  height: 0.263em;
+  position: relative;
+}
+.vector-curtain-wrapper {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.curtains-parent,
+.frame-wrapper2,
+.vector-curtain-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.curtains-parent {
+  flex-direction: row;
+  padding: 0 0.063em 0 0;
+  gap: 0.363em;
+}
+.frame-wrapper2 {
+  flex-direction: column;
+  padding: 1.25em 0.25em 0 0;
+}
+.bathing {
+  position: relative;
+  font-size: 1.063em;
+  display: inline-block;
+  min-width: 3.647em;
+}
+.vector-bath-icon {
+  width: 0.519em;
+  height: 0.263em;
+  position: relative;
+}
+.towel-title-container {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.bathing-parent,
+.frame-wrapper3,
+.towel-title-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bathing-parent {
+  flex-direction: row;
+  padding: 0 0.063em 0 0;
+  gap: 0.3em;
+}
+.frame-wrapper3 {
+  flex-direction: column;
+  padding: 1.25em 0.688em 0 0;
+}
+.quilts1 {
+  text-decoration: none;
+  position: relative;
+  font-size: 1.063em;
+  color: inherit;
+  display: inline-block;
+  min-width: 2.706em;
+}
+.vector-quilt-icon {
+  width: 0.519em;
+  height: 0.263em;
+  position: relative;
+}
+.grid-item-one {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.frame-wrapper4,
+.grid-item-one,
+.quilts-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quilts-group {
+  flex-direction: row;
+  padding: 0 0.063em 0 0;
+  gap: 0.238em;
+}
+.frame-wrapper4 {
+  flex-direction: column;
+  padding: 1.25em 0.375em 0 0;
+}
+.blankets1 {
+  text-decoration: none;
+  position: relative;
+  font-size: 1.063em;
+  color: inherit;
+  display: inline-block;
+  min-width: 4.059em;
+}
+.vector-blanket-icon {
+  width: 0.519em;
+  height: 0.263em;
+  position: relative;
+}
+.grid-item-three {
+  flex-direction: column;
+  padding: 0.581em 0 0;
+}
+.category-grid,
+.category-grid-wrapper,
+.grid-item-three {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.category-grid {
+  flex-direction: row;
+  padding: 0 0.063em 0 0;
+  gap: 0.3em;
+}
+.category-grid-wrapper {
+  flex-direction: column;
+  padding: 1.25em 0.688em 0 0;
+}
+.about-us1 {
+  text-decoration: none;
+  position: relative;
+  font-size: 1.063em;
+  color: inherit;
+  display: inline-block;
+  min-width: 4.412em;
+  white-space: nowrap;
+}
+.about-us-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.25em 0 0;
+}
+.three-product-button-child {
+  align-self: stretch;
+  height: 0.063em;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.three-product-button {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.938em 1.625em 0 0;
+}
+.image-16-icon {
+  width: 2.5em;
+  height: 2.5em;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: darken;
+  cursor: pointer;
+}
+.image-16-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.375em 0 0;
+}
+.image-15-icon {
+  height: 2.5em;
+  width: 4.269em;
+  position: relative;
+  object-fit: contain;
+  cursor: pointer;
+}
+.content-grid,
+.frame-parent5,
+.product-carousel {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 1.494em;
+}
+.content-grid,
+.product-carousel {
+  max-width: 100%;
+}
+.product-carousel {
+  flex: 1;
+  flex-direction: column;
+  padding: 4em 0 0;
+  box-sizing: border-box;
+}
+.content-grid {
+  position: absolute;
+  top: 6.438em;
+  left: 0;
+  width: 89.206em;
+  flex-direction: row;
+  gap: 4.75em;
+  text-align: left;
+  color: #000;
+  font-family: Inter;
+}

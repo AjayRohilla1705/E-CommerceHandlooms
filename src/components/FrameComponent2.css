@@ -1,0 +1,242 @@
+.our-instagram {
+  margin: 0;
+  height: 1.042em;
+  width: 6.104em;
+  position: relative;
+  font-size: 3em;
+  line-height: 0.719em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.our-instagram-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25em 0 3.5em;
+}
+.icon-eye {
+  height: 0.85em;
+  width: 1.081em;
+  position: relative;
+}
+.container,
+.placeholder-image-icon {
+  align-self: stretch;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.placeholder-image-icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.container {
+  height: 34.688em;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-wrapper,
+.content1,
+.timeline-date {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.timeline-date {
+  flex: 1;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 14.438em;
+}
+.content-wrapper,
+.content1 {
+  box-sizing: border-box;
+}
+.content1 {
+  align-self: stretch;
+  border-radius: 20px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 1em 0.063em 0 0;
+  gap: 0.625em;
+}
+.content-wrapper {
+  width: 24.563em;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0.625em 0 0;
+}
+.image-27-icon2 {
+  align-self: stretch;
+  height: 37.75em;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container1,
+.content2,
+.timeline-date1 {
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.container1 {
+  align-self: stretch;
+  height: 34.688em;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content2,
+.timeline-date1 {
+  max-width: 100%;
+}
+.timeline-date1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content2 {
+  width: 22.188em;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 1em 0 0;
+  box-sizing: border-box;
+}
+.image-6-icon {
+  width: 22.813em;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.container2 {
+  flex: 1;
+  border-radius: 20px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container2,
+.content3,
+.frame-div,
+.timeline-date2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.timeline-date2 {
+  align-self: stretch;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content3,
+.frame-div {
+  flex-direction: row;
+}
+.content3 {
+  height: 35.688em;
+  border-radius: 20px;
+  justify-content: flex-end;
+  padding: 1em 0 0;
+  box-sizing: border-box;
+}
+.frame-div {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 1.25em;
+}
+.about-us {
+  margin: 0;
+  height: 1.042em;
+  width: 6.104em;
+  position: relative;
+  font-size: 3em;
+  line-height: 0.719em;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-us-wrapper,
+.frame-container,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.about-us-wrapper {
+  width: 79.563em;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 1.25em;
+  box-sizing: border-box;
+}
+.frame-container,
+.frame-group {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  gap: 7.438em;
+}
+.frame-group {
+  position: absolute;
+  top: 294.625em;
+  left: 2.625em;
+  width: 82.813em;
+  gap: 4.313em;
+  text-align: left;
+  color: #424242;
+  font-family: "Dancing Script";
+}
+@media screen and (max-width: 1350px) {
+  .frame-div {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 800px) {
+  .about-us,
+  .our-instagram {
+    font-size: 2.375em;
+    line-height: 0.737em;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-instagram {
+    font-size: 1.813em;
+    line-height: 0.724em;
+  }
+  .content1 {
+    flex-wrap: wrap;
+  }
+  .about-us {
+    font-size: 1.813em;
+    line-height: 0.724em;
+  }
+}
